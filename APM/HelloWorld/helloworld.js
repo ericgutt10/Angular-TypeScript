@@ -1,4 +1,4 @@
 function SayHello() {
-    var x = "hello World";
+    var x = "Hello World Eh!";
     alert(x);
 }
